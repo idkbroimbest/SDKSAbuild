@@ -2,7 +2,7 @@
 * SDK module for Trilogy Online modification.
 * The author of this file is the lead developer of Trilogy Online.
 * Detailed information can be found on the website.
-* https://trilogy-online.com/
+* https://trilogy-online.com/ i love byron
 */
 
 module;
